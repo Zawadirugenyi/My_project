@@ -15,6 +15,7 @@ import Accommodation from "./Accommodation"
 import Deluxearea from "./Deluxearea"
 import Services from "./Services"
 import Testimonial from "./Testimonial"
+import Footer from "./Footer"
 export default function App(){
 
   return (
@@ -26,6 +27,7 @@ export default function App(){
       <Deluxearea/>
       <Services/>
       <Testimonial/>
+      <Footer/>
     </>
 
   )
