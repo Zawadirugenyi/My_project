@@ -8,16 +8,13 @@ import "./assets/sass/style.css"
 
 
 
-
-
-
-
 import { Preload } from "./Preload"
 import Navbar from "./navbar"
 import Bunner from "./Bunner"
 import Accommodation from "./Accommodation"
 import Deluxearea from "./Deluxearea"
 import Services from "./Services"
+import Testimonial from "./Testimonial"
 export default function App(){
 
   return (
@@ -28,6 +25,7 @@ export default function App(){
       <Accommodation/>
       <Deluxearea/>
       <Services/>
+      <Testimonial/>
     </>
 
   )
