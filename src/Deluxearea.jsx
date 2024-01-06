@@ -39,7 +39,7 @@ export default function Deluxearea(){
 				<div class="col-xl-6 col-lg-8 mb-30 suite">
 					<div class="deluxe__area-item deluxe__area-item-hover"> 
 						<div class="deluxe__area-item-image">
-							<img class="img__full" src="assets/img/photo_6010393430800317783_y.jpg" alt=""/>
+							<img class="img__full" src="assets/img/d" alt=""/>
 						</div>
 						<div class="deluxe__area-item-content"> 
 							<h6><a href="#"><span>$199</span> / Night</a></h6>
