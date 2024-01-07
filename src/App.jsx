@@ -7,6 +7,7 @@ import "./assets/css/swiper-bundle.min.css"
 import "./assets/css/meanmenu.min.css"
 import "./assets/sass/style.css"
 
+
 import { Preload } from "./Preload"
 import Navbar from "./navbar"
 import Bunner from "./Bunner"
@@ -21,6 +22,7 @@ export default function App(){
   return (
   
     <>
+
       <Navbar/>
       <Bunner/>
       <Preload/>
