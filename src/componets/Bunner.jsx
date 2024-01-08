@@ -1,4 +1,6 @@
+
 export default function Bunner(){
+
 
     return (
 
@@ -7,9 +9,9 @@ export default function Bunner(){
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="banner__area-title">
-						<h1>The Best Hotel<span>Deals in the World</span></h1>
+						<h1>Kryptons Apartment <span>Our Home </span></h1>
 						
-								<img class="img__full" src="assets/img/photo_6010393430800317779_y.jpg" alt=""/>
+								<img class="img__full" src="/assets/img/features/photo1685189957.jpeg" alt=""/>
 						
 					</div>
 				</div>
