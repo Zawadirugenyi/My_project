@@ -3,14 +3,17 @@
 
 import "./assets/css/bootstrap.min.css"
 import "./assets/css/all.css"
+import "./assets/css/animate.css"
 import "./assets/css/magnific-popup.css"
 import "./assets/css/meanmenu.min.css"
 import "./assets/sass/style.css"
-
+import "./assets/css/swiper-bundle.min.css"
+import "./assets/img/favicon.png"
 
 import "./assets/js/bootstrap.min.js"
 import "./assets/js/swiper-bundle.min.js"
 import "./assets/js/isotope.pkgd.min.js"
+
 
 
 
